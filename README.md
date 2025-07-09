@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Kotlin**
 
-- 👨‍💻 All of my projects are available at [chsp.netlify](https://chsp.netlify.app/)
+- 👨‍💻 All of my projects are available at [chinthapentasrikar]([https://chsp.netlify.app/](https://chinthapentasrikarwebsite.netlify.app/))
 
 - 💬 Ask me about **python,html&css and js**
 
