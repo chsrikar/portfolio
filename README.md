@@ -3,7 +3,7 @@
 
 - 🔭 This project is  on [MY protfolio website](https://chsp.netlify.app/)
 
-- 🌱 I’m currently learning **Kotlin**
+- 🌱 I’m currently learning **MERN STACK**
 
 - 👨‍💻 All of my projects are available at [chinthapentasrikar](https://chinthapentasrikarwebsite.netlify.app/)
 
